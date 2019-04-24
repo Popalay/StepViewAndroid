@@ -14,9 +14,5 @@ class MainActivity : AppCompatActivity() {
             currentCount = 2
             circleFillColorCurrent = Color.RED
         }
-
-
     }
-
-
 }
